@@ -5,10 +5,10 @@ Este repositório reúne os projetos que desenvolvi durante meus estudos em prog
 
 ## Projetos
 
-### Projeto Finanças 
-Aplicação para controle financeiro desenvolvida com HTML, CSS e Javascript.
+### Link Portifolio 
+Aplicação web pra mostra meus porjetos e meus apredizados.
 
-🌐 Demo: https://lucass-ferreira.github.io/financas/projeto_finanças/
+🌐 Demo: https://lucass-ferreira.github.io/portifolio/Portifolio/
 
 ## Tecnologias
 
