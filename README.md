@@ -8,7 +8,7 @@ Este repositório reúne os projetos que desenvolvi durante meus estudos em prog
 ### Link Portifolio 
 Aplicação web pra mostra meus porjetos e meus apredizados.
 
-🌐 [Portifolio](https://lucass-ferreira.github.io/portifolio/Portifolio/)
+🌐 <a href="https://lucass-ferreira.github.io/portifolio/Portifolio/" target="_blank">Meu Portifolio</a>
 
 ## Tecnologias
 
